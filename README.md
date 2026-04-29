@@ -24,3 +24,4 @@ Both authentication modules were successfully implemented and tested independent
 
 ## Notes
 Due to hardware integration limitations, fingerprint and passcode modules were not fully combined into a single system.
+This is an academic project for demonstration purposes. Some components may be simplified.
